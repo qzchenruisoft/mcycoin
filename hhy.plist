@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.fcpurse.com/data/attachment/1-1548322431.ipa</string>
+					<string>http://dis.show4988.top/data/attachment/hhy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,21 +19,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://www.fcpurse.com/data/attachment/1-1548322431.png</string>
+					<string>http://dis.show4988.top/data/attachment/hhy.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chenrui.fcpurse</string>
+				<string>com.chenrui.hhy</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>5.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>App Subtitle</string>
 				<key>title</key>
-				<string>FCpurse</string>
+				<string>好嗨哟</string>
 			</dict>
 		</dict>
 	</array>
